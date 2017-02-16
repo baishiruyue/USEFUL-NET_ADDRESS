@@ -1,0 +1,40 @@
+1：net-snmp agent开发详解，非常简单
+http://blog.csdn.net/hepeng597/article/details/8782868
+
+2：计算机组成与嵌入式系统（原书第6版）
+http://www.doc88.com/p-6601144918568.html
+
+3：计算机的潜意识（机器学习方面介绍）
+http://www.cnblogs.com/subconscious/p/4107357.html
+这个网站里有EasyPR项目，中文车牌号识别软件(github上有相关代码)
+
+4：源码阅读——十个C开源项目
+https://my.oschina.net/zhoukuo/blog/335788
+可以看看Lua的源代码
+
+5：漫谈linux文件IO 
+http://blog.chinaunix.net/uid-27105712-id-3270102.html
+
+6：C语言也可以干大事之网站设计
+http://www.rupeng.com/Courses/Index/34
+
+7：Cookie/Session机制详解 
+http://blog.csdn.net/fangaoxin/article/details/6952954/
+
+8：Web是怎么工作的: CGI脚本
+http://www.tuicool.com/articles/ANBZzi
+
+9：Python入门基础学习（很全面）
+http://www.runoob.com/python/python-ide.html
+
+10: IP头，TCP头，UDP头，MAC帧头定义
+http://www.cnblogs.com/li-hao/archive/2011/12/07/2279912.html
+
+11: Apache运行机制剖析
+http://blog.csdn.net/hguisu/article/details/7395181
+
+12：用cgi实现文件上传
+http://blog.csdn.net/usernamecontroled/article/details/22865095
+
+13：python学习
+https://www.zhihu.com/question/20039623
