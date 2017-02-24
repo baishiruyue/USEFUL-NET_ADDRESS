@@ -1,40 +1,43 @@
-1£ºnet-snmp agent¿ª·¢Ïê½â£¬·Ç³£¼òµ¥
+1ï¼šnet-snmp agentå¼€å‘è¯¦è§£ï¼Œéå¸¸ç®€å•
 http://blog.csdn.net/hepeng597/article/details/8782868
 
-2£º¼ÆËã»ú×é³ÉÓëÇ¶ÈëÊ½ÏµÍ³£¨Ô­ÊéµÚ6°æ£©
+2ï¼šè®¡ç®—æœºç»„æˆä¸åµŒå…¥å¼ç³»ç»Ÿï¼ˆåŸä¹¦ç¬¬6ç‰ˆï¼‰
 http://www.doc88.com/p-6601144918568.html
 
-3£º¼ÆËã»úµÄÇ±ÒâÊ¶£¨»úÆ÷Ñ§Ï°·½Ãæ½éÉÜ£©
+3ï¼šè®¡ç®—æœºçš„æ½œæ„è¯†ï¼ˆæœºå™¨å­¦ä¹ æ–¹é¢ä»‹ç»ï¼‰
 http://www.cnblogs.com/subconscious/p/4107357.html
-Õâ¸öÍøÕ¾ÀïÓĞEasyPRÏîÄ¿£¬ÖĞÎÄ³µÅÆºÅÊ¶±ğÈí¼ş(githubÉÏÓĞÏà¹Ø´úÂë)
+è¿™ä¸ªç½‘ç«™é‡Œæœ‰EasyPRé¡¹ç›®ï¼Œä¸­æ–‡è½¦ç‰Œå·è¯†åˆ«è½¯ä»¶(githubä¸Šæœ‰ç›¸å…³ä»£ç )
 
-4£ºÔ´ÂëÔÄ¶Á¡ª¡ªÊ®¸öC¿ªÔ´ÏîÄ¿
+4ï¼šæºç é˜…è¯»â€”â€”åä¸ªCå¼€æºé¡¹ç›®
 https://my.oschina.net/zhoukuo/blog/335788
-¿ÉÒÔ¿´¿´LuaµÄÔ´´úÂë
+å¯ä»¥çœ‹çœ‹Luaçš„æºä»£ç 
 
-5£ºÂşÌ¸linuxÎÄ¼şIO 
+5ï¼šæ¼«è°ˆlinuxæ–‡ä»¶IO 
 http://blog.chinaunix.net/uid-27105712-id-3270102.html
 
-6£ºCÓïÑÔÒ²¿ÉÒÔ¸É´óÊÂÖ®ÍøÕ¾Éè¼Æ
+6ï¼šCè¯­è¨€ä¹Ÿå¯ä»¥å¹²å¤§äº‹ä¹‹ç½‘ç«™è®¾è®¡
 http://www.rupeng.com/Courses/Index/34
 
-7£ºCookie/Session»úÖÆÏê½â 
+7ï¼šCookie/Sessionæœºåˆ¶è¯¦è§£ 
 http://blog.csdn.net/fangaoxin/article/details/6952954/
 
-8£ºWebÊÇÔõÃ´¹¤×÷µÄ: CGI½Å±¾
+8ï¼šWebæ˜¯æ€ä¹ˆå·¥ä½œçš„: CGIè„šæœ¬
 http://www.tuicool.com/articles/ANBZzi
 
-9£ºPythonÈëÃÅ»ù´¡Ñ§Ï°£¨ºÜÈ«Ãæ£©
+9ï¼šPythonå…¥é—¨åŸºç¡€å­¦ä¹ ï¼ˆå¾ˆå…¨é¢ï¼‰
 http://www.runoob.com/python/python-ide.html
 
-10: IPÍ·£¬TCPÍ·£¬UDPÍ·£¬MACÖ¡Í·¶¨Òå
+10: IPå¤´ï¼ŒTCPå¤´ï¼ŒUDPå¤´ï¼ŒMACå¸§å¤´å®šä¹‰
 http://www.cnblogs.com/li-hao/archive/2011/12/07/2279912.html
 
-11: ApacheÔËĞĞ»úÖÆÆÊÎö
+11: Apacheè¿è¡Œæœºåˆ¶å‰–æ
 http://blog.csdn.net/hguisu/article/details/7395181
 
-12£ºÓÃcgiÊµÏÖÎÄ¼şÉÏ´«
+12ï¼šç”¨cgiå®ç°æ–‡ä»¶ä¸Šä¼ 
 http://blog.csdn.net/usernamecontroled/article/details/22865095
 
-13£ºpythonÑ§Ï°
+13ï¼špythonå­¦ä¹ 
 https://www.zhihu.com/question/20039623
+
+14:cè¯­è¨€ä¸­çš„å†…å­˜åˆ†é…
+http://blog.csdn.net/youoran/article/details/10990815
