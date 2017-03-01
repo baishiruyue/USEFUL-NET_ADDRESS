@@ -41,3 +41,6 @@ https://www.zhihu.com/question/20039623
 
 14:c语言中的内存分配
 http://blog.csdn.net/youoran/article/details/10990815
+
+15：Linux知识库
+http://lib.csdn.net/base/linux/structure
