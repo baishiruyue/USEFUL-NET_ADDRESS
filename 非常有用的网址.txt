@@ -44,3 +44,6 @@ http://blog.csdn.net/youoran/article/details/10990815
 
 15：Linux知识库
 http://lib.csdn.net/base/linux/structure
+
+16: Linux 0.11 在ubuntu-11和gcc-4.6.1下编译调试至正常运行的过程详解
+http://blog.chinaunix.net/uid-23917107-id-3173253.html
