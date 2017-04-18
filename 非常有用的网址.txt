@@ -50,3 +50,6 @@ http://blog.chinaunix.net/uid-23917107-id-3173253.html
 
 17:minixml中文文档
 https://wenku.baidu.com/view/25fd7d7f31b765ce050814f7.html
+
+18:C&C++图形图像处理开源库
+http://blog.csdn.net/qinpanke/article/details/13630407/
