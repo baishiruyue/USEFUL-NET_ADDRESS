@@ -53,3 +53,5 @@ https://wenku.baidu.com/view/25fd7d7f31b765ce050814f7.html
 
 18:C&C++图形图像处理开源库
 http://blog.csdn.net/qinpanke/article/details/13630407/
+19:静态库和动态库
+http://blog.csdn.net/sunshinewave/article/details/39155755
