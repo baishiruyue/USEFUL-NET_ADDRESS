@@ -59,3 +59,6 @@ http://blog.csdn.net/sunshinewave/article/details/39155755
 
 20：Linux——映射虚拟内存（mmap/unmap）编程工具 静态库和动态库
 http://blog.csdn.net/u012409883/article/details/39085541
+
+21:Python正则表达式验证邮箱
+http://blog.csdn.net/catkint/article/details/55260281
