@@ -1,64 +1,245 @@
-1ï¼šnet-snmp agentå¼€å‘è¯¦è§£ï¼Œéå¸¸ç®€å•
+1£ºnet-snmp agent¿ª·¢Ïê½â£¬·Ç³£¼òµ¥
 http://blog.csdn.net/hepeng597/article/details/8782868
 
-2ï¼šè®¡ç®—æœºç»„æˆä¸åµŒå…¥å¼ç³»ç»Ÿï¼ˆåŸä¹¦ç¬¬6ç‰ˆï¼‰
+2£º¼ÆËã»ú×é³ÉÓëÇ¶ÈëÊ½ÏµÍ³£¨Ô­ÊéµÚ6°æ£©
 http://www.doc88.com/p-6601144918568.html
 
-3ï¼šè®¡ç®—æœºçš„æ½œæ„è¯†ï¼ˆæœºå™¨å­¦ä¹ æ–¹é¢ä»‹ç»ï¼‰
+3£º¼ÆËã»úµÄÇ±ÒâÊ¶£¨»úÆ÷Ñ§Ï°·½Ãæ½éÉÜ£©
 http://www.cnblogs.com/subconscious/p/4107357.html
-è¿™ä¸ªç½‘ç«™é‡Œæœ‰EasyPRé¡¹ç›®ï¼Œä¸­æ–‡è½¦ç‰Œå·è¯†åˆ«è½¯ä»¶(githubä¸Šæœ‰ç›¸å…³ä»£ç )
+Õâ¸öÍøÕ¾ÀïÓĞEasyPRÏîÄ¿£¬ÖĞÎÄ³µÅÆºÅÊ¶±ğÈí¼ş(githubÉÏÓĞÏà¹Ø´úÂë)
 
-4ï¼šæºç é˜…è¯»â€”â€”åä¸ªCå¼€æºé¡¹ç›®
+4£ºÔ´ÂëÔÄ¶Á¡ª¡ªÊ®¸öC¿ªÔ´ÏîÄ¿
 https://my.oschina.net/zhoukuo/blog/335788
-å¯ä»¥çœ‹çœ‹Luaçš„æºä»£ç 
+¿ÉÒÔ¿´¿´LuaµÄÔ´´úÂë
 
-5ï¼šæ¼«è°ˆlinuxæ–‡ä»¶IO 
+5£ºÂşÌ¸linuxÎÄ¼şIO 
 http://blog.chinaunix.net/uid-27105712-id-3270102.html
 
-6ï¼šCè¯­è¨€ä¹Ÿå¯ä»¥å¹²å¤§äº‹ä¹‹ç½‘ç«™è®¾è®¡
+6£ºCÓïÑÔÒ²¿ÉÒÔ¸É´óÊÂÖ®ÍøÕ¾Éè¼Æ
 http://www.rupeng.com/Courses/Index/34
 
-7ï¼šCookie/Sessionæœºåˆ¶è¯¦è§£ 
+7£ºCookie/Session»úÖÆÏê½â 
 http://blog.csdn.net/fangaoxin/article/details/6952954/
 
-8ï¼šWebæ˜¯æ€ä¹ˆå·¥ä½œçš„: CGIè„šæœ¬
+8£ºWebÊÇÔõÃ´¹¤×÷µÄ: CGI½Å±¾
 http://www.tuicool.com/articles/ANBZzi
 
-9ï¼šPythonå…¥é—¨åŸºç¡€å­¦ä¹ ï¼ˆå¾ˆå…¨é¢ï¼‰
+9£ºPythonÈëÃÅ»ù´¡Ñ§Ï°£¨ºÜÈ«Ãæ£©
 http://www.runoob.com/python/python-ide.html
 
-10: IPå¤´ï¼ŒTCPå¤´ï¼ŒUDPå¤´ï¼ŒMACå¸§å¤´å®šä¹‰
+10: IPÍ·£¬TCPÍ·£¬UDPÍ·£¬MACÖ¡Í·¶¨Òå
 http://www.cnblogs.com/li-hao/archive/2011/12/07/2279912.html
 
-11: Apacheè¿è¡Œæœºåˆ¶å‰–æ
+11: ApacheÔËĞĞ»úÖÆÆÊÎö
 http://blog.csdn.net/hguisu/article/details/7395181
 
-12ï¼šç”¨cgiå®ç°æ–‡ä»¶ä¸Šä¼ 
+12£ºÓÃcgiÊµÏÖÎÄ¼şÉÏ´«
 http://blog.csdn.net/usernamecontroled/article/details/22865095
 
-13ï¼špythonå­¦ä¹ 
+13£ºpythonÑ§Ï°
 https://www.zhihu.com/question/20039623
 
-14:cè¯­è¨€ä¸­çš„å†…å­˜åˆ†é…
+14:cÓïÑÔÖĞµÄÄÚ´æ·ÖÅä
 http://blog.csdn.net/youoran/article/details/10990815
 
-15ï¼šLinuxçŸ¥è¯†åº“
+15£ºLinuxÖªÊ¶¿â
 http://lib.csdn.net/base/linux/structure
 
-16: Linux 0.11 åœ¨ubuntu-11å’Œgcc-4.6.1ä¸‹ç¼–è¯‘è°ƒè¯•è‡³æ­£å¸¸è¿è¡Œçš„è¿‡ç¨‹è¯¦è§£
+16: Linux 0.11 ÔÚubuntu-11ºÍgcc-4.6.1ÏÂ±àÒëµ÷ÊÔÖÁÕı³£ÔËĞĞµÄ¹ı³ÌÏê½â
 http://blog.chinaunix.net/uid-23917107-id-3173253.html
 
-17:minixmlä¸­æ–‡æ–‡æ¡£
+17:minixmlÖĞÎÄÎÄµµ
 https://wenku.baidu.com/view/25fd7d7f31b765ce050814f7.html
 
-18:C&C++å›¾å½¢å›¾åƒå¤„ç†å¼€æºåº“
+18:C&C++Í¼ĞÎÍ¼Ïñ´¦Àí¿ªÔ´¿â
 http://blog.csdn.net/qinpanke/article/details/13630407/
 
-19:é™æ€åº“å’ŒåŠ¨æ€åº“
+19:¾²Ì¬¿âºÍ¶¯Ì¬¿â
 http://blog.csdn.net/sunshinewave/article/details/39155755
 
-20ï¼šLinuxâ€”â€”æ˜ å°„è™šæ‹Ÿå†…å­˜ï¼ˆmmap/unmapï¼‰ç¼–ç¨‹å·¥å…· é™æ€åº“å’ŒåŠ¨æ€åº“
+20£ºLinux¡ª¡ªÓ³ÉäĞéÄâÄÚ´æ£¨mmap/unmap£©±à³Ì¹¤¾ß ¾²Ì¬¿âºÍ¶¯Ì¬¿â
 http://blog.csdn.net/u012409883/article/details/39085541
 
-21:Pythonæ­£åˆ™è¡¨è¾¾å¼éªŒè¯é‚®ç®±
+21:PythonÕıÔò±í´ïÊ½ÑéÖ¤ÓÊÏä
 http://blog.csdn.net/catkint/article/details/55260281
+
+22:julius_leeµÄ³É³¤¼ÇÂ¼
+http://blog.csdn.net/julius_lee/article/details/14498091
+
+23:pthread_attr_t Ïß³ÌÊôĞÔ
+http://blog.csdn.net/scanery/article/details/7242768
+
+24:Linuxµ÷¶ÈÆ÷£º½ø³ÌÓÅÏÈ¼¶
+http://www.wowotech.net/process_management/process-priority.html
+
+25: Linux½ø³ÌÓÅÏÈ¼¶µÄ´¦Àí--Linux½ø³ÌµÄ¹ÜÀíÓëµ÷¶È(¶şÊ®¶ş)
+http://blog.csdn.net/gatieme/article/details/51719208
+
+26:pythonÖĞµÄÕıÔò±í´ïÊ½£¨reÄ£¿é£©
+http://www.cnblogs.com/tina-python/p/5508402.html
+
+27:¸øÉî¶ÈÑ§Ï°ÈëÃÅÕßµÄPython¿ìËÙ½Ì³Ì - ·¬ÍâÆªÖ®Python-OpenCV
+https://zhuanlan.zhihu.com/p/24425116
+
+28:Welcome to OpenCV-Python Tutorials¡¯s documentation!
+http://opencv-python-tutroals.readthedocs.io/en/latest/index.html
+
+29:WTF Daily Blog(Å£ÈËµÄ²©¿Í°¡)
+http://blog.topspeedsnail.com/
+
+30£ºOpenCVÔ­Àí½â¶ÁÖ®HAAR+Adaboost
+http://blog.csdn.net/xidianzhimeng/article/details/40085537
+
+31:Ç³ÎöÈËÁ³¼ì²âÖ®Haar·ÖÀàÆ÷·½·¨
+http://www.cnblogs.com/ello/archive/2012/04/28/2475419.html
+
+32:27 ¸ö»úÆ÷Ñ§Ï°¡¢ÊıÑ§¡¢Python ËÙ²é±í
+http://blog.jobbole.com/112009/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+
+33:Èç¹û¿´ÁË´ËÎÄÄã»¹²»¶®¸µÀïÒ¶±ä»»£¬ÄÇ¾Í¹ıÀ´ÆşËÀÎÒ°É
+http://blog.jobbole.com/70549/
+
+34:Îâ¶÷´ïDeeplearning.ai¿Î³ÌÑ§Ï°È«ÌåÑé£ºÉî¶ÈÑ§Ï°±Ø±¸¿Î³Ì£¨ÒÑ»ñÖ¤Êé£©(ÄÚº¬Îâ¶÷´ï»úÆ÷Ñ§Ï°ÊÓÆµµÈ)
+http://www.sohu.com/a/164506828_465975
+
+35£ºCourseraÎâ¶÷´ï»úÆ÷Ñ§Ï°¿Î³Ì ×Ü½á±Ê¼Ç¼°×÷Òµ´úÂë¡ª¡ªµÚ4ÖÜÉñ¾­ÍøÂç
+http://blog.csdn.net/qq_27008079/article/details/71104748
+
+36:Ö§³ÖÏòÁ¿»úÍ¨Ë×µ¼ÂÛ£¨Àí½âSVMµÄÈı²ã¾³½ç£©
+http://blog.csdn.net/macyang/article/details/38782399/
+
+37:½á¹¹Ö®·¨ Ëã·¨Ö®µÀÃæÊÔ¡¢Ëã·¨¡¢»úÆ÷Ñ§Ï°ÔÚÏß¿Î³Ì£ºjulyedu.com(¾«Æ·)
+http://blog.csdn.net/v_july_v/article/details/7237351
+
+38:»úÆ÷Ñ§Ï°ÊµÕ½ - ¶ÁÊé±Ê¼Ç(06) ¨C SVMÖ§³ÖÏòÁ¿»ú
+http://www.cnblogs.com/steven-yang/p/5658362.html
+
+39:Í¼ÏñÑ§Ï°Ö®ÈçºÎÀí½â·½ÏòÌİ¶ÈÖ±·½Í¼£¨Histogram Of Gradient£©
+https://www.leiphone.com/news/201708/ZKsGd2JRKr766wEd.html
+
+40:ÀûÓÃPython£¬ËÄ²½ÕÆÎÕ»úÆ÷Ñ§Ï°
+http://python.jobbole.com/84326/
+
+41:Python NumpyµÄÊı×éarrayºÍ¾ØÕómatrix
+http://blog.csdn.net/zhihaoma/article/details/51002742
+
+42:ArrayÊı×éºÍ¾ØÕó»ù±¾ÔËËã
+http://blog.csdn.net/lwplwf/article/details/55506896
+
+43:Âß¼­»Ø¹é
+http://blog.csdn.net/pakko/article/details/37878837/
+
+44:scikit-learn Machine Learning in Python (ÖØÒª)
+http://scikit-learn.org/stable/index.html
+
+45:Coursera ÉÏÓĞÄÄĞ©¿Î³ÌÖµµÃÍÆ¼ö£¿
+https://www.zhihu.com/question/22436320
+
+46:mldata Êı¾İ¼¯ºÏ
+http://mldata.org/repository/data/viewslug/mnist-original/
+
+47:½»²æÑéÖ¤ÔÚsklearnÖĞµÄÊµÏÖ
+http://blog.sina.com.cn/s/blog_7103b28a0102w70h.html
+
+48:UFLDL_TutorialÉî¶ÈÑ§Ï°ÈëÃÅ½Ì³Ì Îâ¶÷´ï
+http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+
+49£ºÉî¶ÈÑ§Ï°ÈçºÎÈëÃÅ£¿£¨ÖØµã¿´ÏÂÃæ¼¸¸öÈËµÄ»Ø´ğ£©
+https://www.zhihu.com/question/26006703
+
+50:MATLAB and Octave Functions for Computer Vision and Image Processing
+http://www.peterkovesi.com/matlabfns/
+
+51:Êı¾İÍÚ¾òÊ®´óËã·¨Ö®¾ö²ßÊ÷Ïê½â£¨1£©
+http://blog.csdn.net/baimafujinji/article/details/51724371
+
+52:sklearnÎÄµµ ¡ª 1.7. ¸ßË¹¹ı³Ì
+http://www.jianshu.com/p/4400f186052d
+
+53:NumPy ½Ì³Ì
+http://www.yiibai.com/numpy/numpy_ndarray_object.html
+
+54:Éî¶ÈÑ§Ï°Ö®¾í»ıÉñ¾­ÍøÂçCNN¼°tensorflow´úÂëÊµÏÖÊ¾Àı
+http://blog.csdn.net/cxmscb/article/details/71023576
+
+55£º¡¶Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift¡·ÔÄ¶Á±Ê¼ÇÓëÊµÏÖ
+http://blog.csdn.net/happynear/article/details/44238541
+
+56:Êı¾İÔ¤´¦ÀíÖĞ¹éÒ»»¯£¨Normalization£©ÓëËğÊ§º¯ÊıÖĞÕıÔò»¯£¨Regularization£©½â»ó
+https://www.cnblogs.com/arachis/p/Regulazation.html?utm_source=itdadao&utm_medium=referral
+
+57:Python--matplotlib»æÍ¼¿ÉÊÓ»¯ÖªÊ¶µãÕûÀí
+https://www.cnblogs.com/zhizhan/p/5615947.html
+
+58:Deep LearningÂÛÎÄ±Ê¼ÇÖ®£¨ËÄ£©CNN¾í»ıÉñ¾­ÍøÂçÍÆµ¼ºÍÊµÏÖ (Õâ¸öÈËµÄ¶«Î÷¶à¿´¿´£¬ÊÇÒ»¸öÏµÁĞ)
+http://blog.csdn.net/zouxy09/article/details/9993371/
+
+59:Í¼Ïñ´¦ÀíÖĞµÄ¸µÀïÒ¶±ä»»
+http://blog.csdn.net/m0_37264397/article/details/70186390
+
+60:´ÓÍ·µ½Î²³¹µ×Àí½â¸µÀïÒ¶±ä»»Ëã·¨
+http://blog.csdn.net/x_r_su/article/details/53054873
+
+61:(¾«ĞÄÕûÀí)Í¼ÏñµÄ¸µÀïÒ¶±ä»»
+https://wenku.baidu.com/view/c5e2cca8fab069dc502201db.html
+
+62:tensorflowÖĞdropoutµÄÓÃ·¨,·ÀÖ¹overfitting
+http://blog.csdn.net/lujiandong1/article/details/53223630
+
+63:TensorFlowÑ§Ï°±Ê¼Ç£¨Áù£©£ºÈçºÎÀí½âdropout£¿
+http://blog.csdn.net/zeuseign/article/details/72742579
+
+64:ÈçºÎ¸ßĞ§µÄÑ§Ï° TensorFlow ´úÂë?
+https://www.zhihu.com/question/41667903?from=profile_question_card
+
+65£º[Í¸Îö] ¾í»ıÉñ¾­ÍøÂçCNN¾¿¾¹ÊÇÔõÑùÒ»²½Ò»²½¹¤×÷µÄ£¿
+https://www.jianshu.com/p/fe428f0b32c1
+
+66£ºTensorFlowÑ§Ï°±Ê¼Ç£¨5£©£º»ùÓÚMNISTÊı¾İµÄ¾í»ıÉñ¾­ÍøÂçCNN   £¨Õâ¸öÈËµÄ²©¿Í¶à¿´¿´£©
+https://segmentfault.com/a/1190000008251179
+
+67:pip°²×°python°ü³öÏÖCannot fetch index base URL http://pypi.python.org/simple/
+http://blog.csdn.net/xujian0000abcd/article/details/50497456
+
+68: Ubuntu°²×°tensorflow±¨´í£ºtensorflow-xx.whl not a supported wheel on this platform(not 32Î»»ú)
+http://blog.csdn.net/scotfield_msn/article/details/54234914
+
+69:List of tools for static code analysis(¾²Ì¬´úÂë¼ì²é¹¤¾ßÁĞ±í)
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#Python
+
+70:TensorflowµÄ¿ÉÊÓ»¯¹¤¾ßTensorboardµÄ³õ²½Ê¹ÓÃ
+http://blog.csdn.net/sinat_33761963/article/details/62433234
+
+71:Ñ§Ï°TensorFlow£¬TensorBoard¿ÉÊÓ»¯ÍøÂç½á¹¹ºÍ²ÎÊı
+http://blog.csdn.net/helei001/article/details/51842531
+
+72: notes from the Stanford CS 231 course(CNNÍâ¹ú´óÅ£)
+http://cs231n.github.io/convolutional-networks/
+
+73£ºÏêÏ¸½²½âÉñ¾­ÍøÂçÊ®´óÎó½â
+http://www.360doc.com/content/16/0505/00/31901934_556341595.shtml
+
+74:Í¼Ïñ¿âÏÂÔØ
+https://www.zhihu.com/question/25039851?sort=created
+
+75:Python+seleniumÔËĞĞ³ö´í'Application' executable may have 
+wrong permissions.'chromedriver' executable need to be in path(python chrome problem)
+http://blog.csdn.net/zoulonglong/article/details/78664736
+
+76:³ÌĞòÔ±¸ßĞ§ÂÊ¹¤×÷¹¤¾ßÍÆ¼ö£¨±Ø±¸¹¤¾ß£©
+http://blog.csdn.net/shijiebei2009/article/details/41697895
+
+77:ÓÅĞã³ÌĞòÔ±±Ø±¸µÄ23ÌõºÃÏ°¹ß
+http://blog.csdn.net/u013628152/article/details/46137705
+
+78:¡¾Éî¶ÈÑ§Ï°ÏµÁĞ¡¿¾í»ıÉñ¾­ÍøÂçÏê½â(¶ş)¡ª¡ª×Ô¼ºÊÖĞ´Ò»¸ö¾í»ıÉñ¾­ÍøÂç
+https://www.cnblogs.com/charlotte77/p/7783261.html
+
+79:LetNet5¾í»ı²ÎÊıÀí½â(¶ÔÓÚLeNet5½á¹¹½²½âµÄÌØ±ğÇå³ş)
+http://blog.csdn.net/u013087984/article/details/52027465
+
+80£ºcnn´óÉñµÄ²©¿Í£¬Ó¢ÎÄ
+http://yann.lecun.com/index.html
+
+81£º±äĞÎ¾í»ıºË¡¢¿É·ÖÀë¾í»ı£¿¾í»ıÉñ¾­ÍøÂçÖĞÊ®´óÅÄ°¸½Ğ¾øµÄ²Ù×÷¡£
+http://blog.csdn.net/mmc2015/article/details/77745768
