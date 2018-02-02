@@ -243,3 +243,24 @@ http://yann.lecun.com/index.html
 
 81：变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。
 http://blog.csdn.net/mmc2015/article/details/77745768
+
+82:Deep learning：三十八(Stacked CNN简单介绍)
+http://www.cnblogs.com/tornadomeet/archive/2013/05/05/3061457.html
+
+83:Convolutional Neural Networks (LeNet)
+http://deeplearning.net/tutorial/lenet.html#convolutional-neural-networks-lenet
+
+84:目前看到的讲卷积神经网络最好的博客
+http://blog.csdn.net/u012871279/article/details/78036503
+
+85：从神经网络视角看均方误差与交叉熵作为损失函数时的共同点 （讲解的简洁明了，二分类和多分类时，所用损失函数定义不同）
+https://www.cnblogs.com/dengdan890730/archive/2016/05/31/5545616.html
+
+86：Deep Learning论文笔记之（五）CNN卷积神经网络代码理解（主要是针对deeplearningtoolbox中的cnn matlab代码来讲的，非常详细）
+http://blog.csdn.net/zouxy09/article/details/9993743
+
+87：Neural Network for Recognition of Handwritten Digits（外国友人在2006年写的手写体数字CNN代码（C++版本)，还有个demon，很不错）
+https://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi
+
+88：CS231n 卷积神经网络与计算机视觉 6 数据预处理 权重初始化 规则化 损失函数 等常用方法总结
+http://blog.csdn.net/bea_tree/article/details/51519844
